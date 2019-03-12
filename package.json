@@ -1,0 +1,20 @@
+{
+  "name": "repos",
+  "version": "1.0.0",
+  "description": "npm install axious",
+  "main": "https://www.npmjs.com/package/node-spotify-api",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "file-system": "^2.2.2",
+    "input": "^1.0.1",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0"
+  }
+}
